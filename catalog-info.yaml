@@ -4,7 +4,7 @@ metadata:
   name: ConcurrencyInPractice
   annotations:
     github.com/project-slug: velykyi-vladyslav/ConcurrencyInPractice
-    backstage.io/techdocs-ref: dir:.
+    backstage.io/techdocs-ref: value
 spec:
   type: other
   lifecycle: unknown
