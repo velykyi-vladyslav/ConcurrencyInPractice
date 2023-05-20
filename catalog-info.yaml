@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: ConcurrencyInPractice
+  annotations:
+    github.com/project-slug: velykyi-vladyslav/ConcurrencyInPractice
+spec:
+  type: other
+  lifecycle: unknown
+  owner: velykyi-vladyslav
