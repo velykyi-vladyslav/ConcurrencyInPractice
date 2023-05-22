@@ -1,0 +1,10 @@
+site_name: Service
+
+nav:
+    - Home: README.md
+
+plugins:
+    - techdocs-core
+    - swagger-ui:
+        spec_url: 'https://netstorage.ringcentral.com/dpw/api-reference/specs/rc-platform.yml'
+        outfile: 'docs/api.md'
